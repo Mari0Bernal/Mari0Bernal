@@ -4,7 +4,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-Soy un estudiante de último semestre de **Ciencias Computacionales** con <br/> experiencia en automatización de pruebas y desarrollo de software. <br/>Me apasiona la tecnología y la creación de soluciones eficientes que cumplan con los más altos estándares.
+Soy un estudiante de último semestre de **Ciencias Computacionales** con <br/> experiencia en automatización de pruebas y desarrollo de software. <br/>Me apasiona la tecnología y la creación de soluciones eficientes <br/>que cumplan con los más altos estándares.
 
 - 🔭 Actualmente estoy en busca de trabajo.
 - 🌱 Mi meta es crecer continuamente como profesional, aprender de cada experiencia y absorber nuevos conocimientos a lo largo de cada proyecto.
